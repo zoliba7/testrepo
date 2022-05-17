@@ -1,2 +1,2 @@
 # testrepo
-1. repository proba
+ repository proba
